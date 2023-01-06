@@ -11,6 +11,10 @@ The project was developed during the course with the main objective of teaching 
 
 - [JavaScript](https://www.javascript.com/)
 - [React](https://reactjs.org/)
+- [fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+- [async/await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+
+
 
 <br/>
 
@@ -23,8 +27,12 @@ The project was developed during the course with the main objective of teaching 
 
 ### Running the project:
 
-- Go to **website** directory `cd website`
-- Run `npm start`
+```
+$ git clone git@github.com:paulahage/Tours.git
+$ cd website
+$ npm install
+$ npm start
+```
 - You can check the project at http://localhost:3000/
 
 <br/>
